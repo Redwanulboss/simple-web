@@ -1,0 +1,14 @@
+
+header{
+    margin: 50px;
+}
+nav{
+    display: flex;
+}
+h3{
+    font-size: 40px;
+
+}
+ul > li{
+    text-decoration: none;
+}
